@@ -1,0 +1,58 @@
+{
+  "design_system_profile": {
+    "layout": {
+      "orientation": "landscape",
+      "grid": "centered layout with symmetrical spacing",
+      "alignment": "center-aligned titles and components",
+      "padding": "consistent outer margin padding (~5-8% from edges)"
+    },
+    "typography": {
+      "font_style": "bold sans-serif",
+      "title_case": "uppercase",
+      "hierarchy": {
+        "heading": {
+          "size": "large (approx. 5-8% of screen height)",
+          "weight": "bold",
+          "color": "high contrast with background (usually white or bright)"
+        },
+        "subheading": {
+          "size": "medium",
+          "weight": "medium",
+          "color": "slightly muted variant of title color"
+        }
+      },
+      "text_alignment": "centered"
+    },
+    "color_scheme": {
+      "primary_palette": ["#FFFFFF", "#000000"],
+      "background_tone": "dark or cinematic gradient backgrounds",
+      "accent_colors": ["#F5A623", "#FF3B30", "#4CD964"],
+      "contrast": "high"
+    },
+    "visual_elements": {
+      "shapes": "rounded rectangles and linear dividers",
+      "iconography": "minimal, flat-style icons if present",
+      "animations": "fade-ins, parallax motion, and light sweep effects"
+    },
+    "composition": {
+      "focus_area": "center 60% of the screen",
+      "motion_guides": "elements animate in from bottom or sides",
+      "layering": "foreground text over softened background elements"
+    },
+    "branding": {
+      "logo_placement": "bottom-right or top-left",
+      "style": "clean, flat, monochromatic logos",
+      "consistency": "logo shown in every major scene"
+    },
+    "transition_style": {
+      "type": "smooth dissolve or slide transitions",
+      "duration": "0.5–1.0 seconds"
+    },
+    "usable_for": [
+      "promotional reels",
+      "digital identity intros",
+      "social media video posts",
+      "highlight showcases"
+    ]
+  }
+}
